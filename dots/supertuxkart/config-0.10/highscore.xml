@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<highscores version="4">
+  <highscore track-name    ="volcano_island"
+             number-karts  ="4"
+             difficulty    ="0"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="2"
+             reverse       ="false">
+             <entry time    ="267.537"
+                    name    ="localtexan"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="volcano_island"
+             number-karts  ="4"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="2"
+             reverse       ="false">
+             <entry time    ="205.898"
+                    name    ="localtexan"
+                    kartname="tux"/>
+             <entry time    ="205.983"
+                    name    ="localtexan"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="volcano_island"
+             number-karts  ="4"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="301.598"
+                    name    ="localtexan"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="snowtuxpeak"
+             number-karts  ="4"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="140.211"
+                    name    ="localtexan"
+                    kartname="tux"/>
+             <entry time    ="161.617"
+                    name    ="localtexan"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="ravenbridge_mansion"
+             number-karts  ="4"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="197.006"
+                    name    ="localtexan"
+                    kartname="tux"/>
+             <entry time    ="212.679"
+                    name    ="localtexan"
+                    kartname="tux"/>
+             <entry time    ="213.591"
+                    name    ="localtexan"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="abyss"
+             number-karts  ="4"
+             difficulty    ="0"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="296.422"
+                    name    ="localtexan"
+                    kartname="tux"/>
+  </highscore>
+</highscores>
