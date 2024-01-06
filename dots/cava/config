@@ -10,8 +10,8 @@
 ; sensitivity = 100
 
 ; bars = 0
-  bar_width = 3
-; bar_spacing = 1
+  bar_width = 4
+  bar_spacing = 1
 # bar_height is only used for output in "noritake" format
 ; bar_height = 32
 
