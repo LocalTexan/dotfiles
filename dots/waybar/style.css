@@ -1,7 +1,7 @@
 @import '/home/localtexan/.cache/wal/colors-waybar.css';
 
 * {
-    border: transparent;
+    border:@color11;
     border-radius: 0;
     font-family: "JetBrainsMono Nerd Font";
     font-weight: bold;
@@ -10,8 +10,11 @@
 }
 
 window#waybar {
-    background: @background;
-    color: #cdd6f4;
+  background: @background;
+  color: #cdd6f4;
+  border: 0px;
+  border-style: solid;
+  border-color: @color11;
 }
 window#waybar.hidden {
     opacity: 0.2;
@@ -32,7 +35,6 @@ tooltip {
 
 #workspaces button.focused {
     color: #a6adc8;
-
     background: #010409;
 }
 
@@ -42,11 +44,8 @@ tooltip {
 }
 
 #workspaces button:hover {
-    border-style: solid;
-    border-color: @color11;
-    background: @color0;
-    color: @color11;
-    border-top: 2px solid @color5;
+    background: @color11;
+    color: @color0;
 }
 #custom-spotify{
 	color: @color11;
@@ -122,5 +121,5 @@ margin-right: 8px;
 }
 #custom-power-menu {
 	color: @color11;
-        margin-right: 10px;
+  margin-right: 10px;
 }
